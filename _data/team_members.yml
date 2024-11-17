@@ -26,7 +26,7 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.idreeslab.org/vacancies">openings</a> for more info
+  info: See <a href="http://www.idreeslab.com/vacancies">openings</a> for more info
   email: kamran.idrees@vumc.org
   number_educ: 0
   education1:
