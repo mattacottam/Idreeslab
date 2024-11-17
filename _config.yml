@@ -10,7 +10,7 @@ title: The Idrees Lab
 email: matthew.cottam@vumc.org
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Idreeslab.
-baseurl: ""
+#baseurl: ""
 url: ""
 
 include:
