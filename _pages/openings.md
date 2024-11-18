@@ -20,6 +20,6 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 ### Undergraduate research experience
 A limited number of spots are available for current undergraduate students interested in basic research. Course credit may be available for exceptional applications from Vanderbilt University.
 
-<figure>
+<!-- <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+</figure> -->
