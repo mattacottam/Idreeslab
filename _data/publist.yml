@@ -31,89 +31,79 @@
   description: We report a case of a patient who presented with extrahepatic HCC metastasis to a portocaval lymph node with occult hepatic primary on computed tomography (CT).
   authors: Wu WK, Patel K, Padmanabhan C, Idrees K
   link:
-    url: 10.4251/wjgo.v16.i5.2241
+    url: https://www.wjgnet.com/1948-5204/full/v16/i5/2241.htm
     display: World J Gastrointest Oncol. 2024 May 15;16(5):2241-2252
   highlight: 0
   
 - title: "Survival disparities in rural versus urban patients with pancreatic neuroendocrine tumor: A multi-institutional study from the US neuroendocrine tumor study group"
-  image: dummy.png
+  image: SurvDispAJS.png
   description: This study assesses disparities in outcomes between PNET patients who live in urban (UA) and rural areas (RA).
   authors: Mirza MB, Baechle JJ, Marincola Smith P, Dillhoff M, Poultsides G, Rocha FG, Cho CS, Winslow ER, Fields RC, Maithel SK, Idrees K.
   link:
-    url: 10.1016/j.amjsurg.2024.03.003
+    url: https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S0002961024001636?returnurl=https:%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0002961024001636%3Fshowall%3Dtrue&referrer=https:%2F%2Fpubmed.ncbi.nlm.nih.gov%2F
     display: Am J Surg. 2024 Jul;233:125-131
   highlight: 1
   
 - title: "Intra-Patient Heterogeneity in Micro-satellite-stable Colorectal Metastases: Does Immunotherapy Have a Role in Colorectal Peritoneal Metastases?"
-  image: dummy.png
+  image: IntraPtHetASO.png
   description: 
   authors: Mirza MB, Marincola Smith P, Wang Y, Naveed A, Washing MK, Xu Y, Idrees K
   link:
-    url: 10.1245/s10434-023-14694-8
+    url: https://link.springer.com/article/10.1245/s10434-023-14694-8
     display: Ann Surg Oncol. 2024 Mar;31(3):1440-1443
   highlight: 1
   
 - title: "Association of Systemic Chemotherapy Approaches With Outcomes in Appendiceal Peritoneal Metastases"
-  image: dummy.png
+  image: AssoSysChemoJSR.png
   description: The primary aim of this study is to evaluate differences in oncologic outcomes among two popular chemotherapy approaches in patients with APM undergoing CRS-HIPEC.
-
   authors: Hanna DN, MAcfie R, Ghani MO, Hermina A, Mina A, Cha DE, Bailey CE, Cohen N, Labow D, Golas B, Sarpel U, Idrees K, Magge D.
   link:
-    url: 10.1016/j.jss.2022.10.085
+    url: https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S0022480422007193?returnurl=https:%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0022480422007193%3Fshowall%3Dtrue&referrer=https:%2F%2Fpubmed.ncbi.nlm.nih.gov%2F
     display: J Surg Res. 2023 Apr;284:94-100
   highlight: 1
   
 - title: "Impact of adjuvant therapy on outcomes after curative-intent resection for distal cholangiocarcinoma"
-  image: dummy.png
+  image: ImpAdjChemoCholangioJSO.png
   description: The objective of the current study was to investigate the impact of AT on long-term survival of patients who underwent curative-intent resection for DCC.
   authors: Hou JJ. Maithel Sk, Weber SM, Poultsides G, Wolfgang CL, Fields RC, He j, Scoggins C, Idrees K, Shen P, Xhang XF, Pawlik TM.
   link:
-    url: 10.1002/jso.27146
+    url: https://onlinelibrary.wiley.com/doi/10.1002/jso.27146
     display: J Surg Oncol. 2023 Mar;127(4):607-615
   highlight: 0
   
 - title: "A large pancreatic mass in a young adult"
-  image: dummy.png
+  image: PancMassSurgery.png
   description:
   authors: Kowalkski B, Chotai PN, Perez A, Idrees K.
   link:
-    url: 10.1016/j.surg.2022.05.021
+    url: https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S0039606022004068?returnurl=https:%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0039606022004068%3Fshowall%3Dtrue&referrer=https:%2F%2Fpubmed.ncbi.nlm.nih.gov%2F
     display: Surgery. 2022 Oct;172(4):e47-e48
   highlight: 1
   
-- title: "A total neoadjuvant chemotherapy approach is associated with improved recurrence-free survival in patients with colorectal peritoneal metastases undergoing cytoreductive surgery and HIPEC"
-  image: dummy.png
-  description: The primary aim of this study is to evaluate the oncologic outcomes of two popular systemic chemotherapy approaches in patients with colorectal peritoneal metastases (CPM) undergoing cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (CRS-HIPEC).
-  authors: Hanna DN, Macfie R, Ghani MO, Hermina A, Mina A, Cha DE, Bailey CE, Cohen N, Labow D, Golas B, Sarpel U, Magge D, Idrees K.
-  link:
-    url: 10.1002/jso.27136
-    display: J Surg Oncol. 2023 Mar;127(3):442-449
-  highlight: 1
-  
 - title: "Prognostic Utility of Systemic Immune-Inflammation Index After Resection of Extrahepatic Cholangiocarcinoma: Results from the U.S. Extrahepatic Biliary Malignancy Consortium"
-  image: dummy.png
+  image: ProgUtilImmInfIndexASO.png
   description: We sought to define the association of the systemic immune inflammation index (SII) with prognosis and adjuvant therapy benefit among patients undergoing resection of extrahepatic cholangiocarcinoma (eCCA).
   authors: Toyoda J, Sahara K, Maithel SK, Abbot DE, Poultsides GA, Wolfgang C, Fields RC, He J, Scoggins C, IDrees K, Shen P, Endo I, Pawlik TM.
   link:
-    url: 10.1245/s10434-022-12058-2
+    url: https://link.springer.com/article/10.1245/s10434-022-12058-2
     display: Ann Surg Oncol. 2022 Nov;29(12):7605-7614
   highlight: 0
   
 - title: "Surgical outcomes of gastro-entero-pancreatic neuroendocrine tumors G3 versus neuroendocrine carcinom"
-  image: dummy.png
+  image: SurgOutcomesNeuroEndoJSO.png
   description: The goal of this study was to define surgical outcomes of patients with high-grade gastro-entero-pancreatic neuroendocrine neoplasm grade G3 (GEP-NEN G3).
   authors: Li Mx, Lopez-Aguiar AG, Poultsides G, Rocha F, Weber S, Fields R, Idrees K, Cho C, Maithel SK, Zhang XF, Pawlik TM.
   link:
-    url: 10.1002/jso.26928
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/jso.26928
     display: J Surg Oncol. 2022 Sep;126(4):689-697
   highlight: 0
   
 - title: "Immunostimulatory Cancer-Associated Fibroblast Subpopulations Can Predict Immunotherapy Response in Head and Neck Cancer"
-  image: dummy.png
+  image: iCAFsHNSCCCCR.png
   description: We performed high-dimensional single-cell RNA sequencing (scRNA-seq) on four patient tumors pretreatment and posttreatment from a neoadjuvant trial of patients with advanced-stage head and neck squamous cell carcinoma that were treated with the αPD-1 therapy, nivolumab.
   authors: Obradovic A, Graves D, Korrer M, Wang Y, Roy S, Naveed A, Xu Y, Luginbuhl A, Curry J, Gibson M, Idrees K, Hurley P, Jiang P, Liu XS, Uppaluri R, Drake CG, Califano A, Kim YJ.
   link:
-    url: 10.1158/1078-0432.CCR-21-3570
+    url: https://aacrjournals.org/clincancerres/article/28/10/2094/694835/Immunostimulatory-Cancer-Associated-Fibroblast
     display: Clin Cancer Res. 2022 May 13;28(10):2094-2109
   highlight: 1
   
@@ -122,33 +112,33 @@
   description: We performed an institutional retrospective review of a prospectively maintained database of 145 patients who underwent CRS-HIPEC between 2013 and 2019.
   authors: Hanna DN, Schlegel C, Ghani MO, Hermina A, S Mina A, McKay K, Bailey CE, Magge D, Idrees K.
   link:
-    url: 10.1097/XCS.0000000000000152
+    url: https://journals.lww.com/journalacs/abstract/2022/06000/stapled_full_thickness_diaphragm_resection__a.51.aspx
     display: J Am Coll Surg. 2022 Jun 1;234(6):e1-e6
-  highlight: 1
+  highlight: 0
   
 - title: "Insurance-based Disparities in Gastro-Entero-Pancreatic Neuroendocrine Tumor Patients"
-  image: dummy.png
+  image: JHCPU_cover.png
   description: In this commentary, we expand on these findings as they relate to insurance-based disparities as well as management and policy implications.
   authors: Baechle JJ, Smith PM, Idrees K.
   link:
-    url: 10.1353/hpu.2021.0126
+    url: https://muse.jhu.edu/pub/1/article/802255
     display: J Health Care Poor Underserved. 2021;32(3):1199-1207
   highlight: 1
   
 - title: "Impact of Insurance Status on Oncologic and Perioperative Outcomes After Cytoreductive Surgery with Hyperthermic Intraperitoneal Chemotherapy"
-  image: dummy.png
+  image: ImpInsuStatusHIPEC_ASO.png
   description: This study investigates surgical outcomes following CRS-HIPEC for insured and underinsured patients with peritoneal carcinomatosis.
   authors: Hannah Dn, Ghani MO, Hermina A, Bailey CE, IDrees K, Magge D.
   link:
-    url: 10.1245/s10434-021-10670-2
+    url: https://link.springer.com/article/10.1245/s10434-021-10670-2
     display: Ann Surg Oncol. 2022 Jan;29(1):253-259
-  highlight: 0
+  highlight: 1
   
 - title: "Spectrum of Somatic Cancer Gene Variations Among Adults With Appendiceal Cancer by Age at Disease Onset"
-  image: dummy.png
+  image: SpecSomCancGenesAgeJAMA.png
   description: This study seeks characterize the frequency of somatic variations and genomic patterns among patients with early-onset (age <50 years) vs late-onset (age ≥50 years) AC.
   authors: Holowatyh AN, eng C, Wen W, Idrees K, Guo X.
   link:
-    url: 10.1001/jamanetworkopen.2020.28644
+    url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2773830
     display: JAMA Netw Open. 2020 Dec 1;3(12):e2028644
-  highlight: 0
+  highlight: 1
