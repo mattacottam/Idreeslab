@@ -54,7 +54,7 @@ We are a collaborative research group at [Vanderbilt University Medical Center](
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vumc-logo.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/VICC.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nih-logo-color.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NCI.svg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/VICC.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nih-logo-color.png" style="width: 220px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NCI.svg" style="width: 210px">
 </figure>
