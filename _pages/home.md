@@ -50,7 +50,7 @@ permalink: /
 
 We are a collaborative research group at [Vanderbilt University Medical Center](https://vumc.org). Our research focus is on addressing unmet needs in clinical care for patients with advanced gastrointestinal malignancies using a bedside-to-bench model. We leverage high-throughput multimodal techniques to evaluate the complex cellular and metabolic mileu of the tumor microenvironment. 
 
- <!-- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
+**If you are interested in working with us, please see our vacancies page** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vumc-logo.png" style="width: 160px">
